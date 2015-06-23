@@ -25,7 +25,7 @@ title: 'Alex Chen, Esq. - Cross-Border Litigation, Commercial Law & Intellectual
 datePublished: '2015-06-21T16:51:35.569Z'
 starred: true
 authors: []
-dateModified: '2015-06-21T16:51:35.569Z'
+dateModified: '2015-06-23T15:21:49.506Z'
 sourcePath: _posts/2015-06-21-alex-chen-esq-cross-border-litigation-commercial-law-and.md
 published: true
 _context: 'http://schema.org'
